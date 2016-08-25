@@ -1,0 +1,5 @@
+Your name.  Boonma Vue
+What is your major?     Computer Science    
+Why are you in this class?      Major Course
+What do you think you will learn?       C++ and related programming
+Anything else that you would like to share with the class.  Hobbies: Games, anime, tennis
