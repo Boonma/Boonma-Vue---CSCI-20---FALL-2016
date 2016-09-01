@@ -12,13 +12,13 @@ using namespace std;
 
 int main() {
 	int numComputer    = 75;
-	int guess              ;
-	int resets             ;
+	int guess          =  0;
+	int resets         =  0;
 
 	cout << "Pick a number between 1 through 100:";
 	cin >> guess;
     cout << numComputer << " is the answer." << endl;
-    cout << "numComputer " << numComputer << " guess" << endl;
+    
 
 	   
 	 return 0;
